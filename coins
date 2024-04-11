@@ -6274,6 +6274,61 @@
     "derivation_path": "m/44'/966'"
   },
   {
+    "coin": "IAM",
+    "name": "itsameme",
+    "fname": "ITSAMEME",
+    "rpcport": 8332,
+    "pubtype": 0,
+    "p2shtype": 5,
+    "wiftype": 128,
+    "segwit": true,
+    "bech32_hrp": "bc",
+    "txfee": 0,
+    "estimate_fee_mode": "ECONOMICAL",
+    "mm2": 1,
+    "wallet_only": false,
+    "sign_message_prefix": "ITSAMEME Signed Message:\n",
+    "required_confirmations": 1,
+    "avg_blocktime": 600,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/0'",
+    "links": {
+      "github": "https://github.com/itsamemedev/ITSAMEME",
+      "homepage": "https://its-a-meme.com/"
+    }
+  },
+  {
+    "coin": "IAM-segwit",
+    "name": "itsameme",
+    "fname": "ITSAMEME",
+    "sign_message_prefix": "ITSAMEME Signed Message:\n",
+    "rpcport": 8332,
+    "pubtype": 0,
+    "p2shtype": 5,
+    "wiftype": 128,
+    "segwit": true,
+    "bech32_hrp": "bc",
+    "address_format": {
+      "format": "segwit"
+    },
+    "orderbook_ticker": "BTC",
+    "txfee": 0,
+    "estimate_fee_mode": "ECONOMICAL",
+    "mm2": 1,
+    "required_confirmations": 1,
+    "avg_blocktime": 600,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/0'",
+    "links": {
+      "github": "https://github.com/itsamemedev/ITSAMEME",
+      "homepage": "https://its-a-meme.com/"
+    }
+  },
+  {
     "coin": "JDB-BEP20",
     "name": "jdb_bep20",
     "fname": "Jeet Detector Bot",
