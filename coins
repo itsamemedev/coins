@@ -6277,7 +6277,7 @@
     "coin": "IAM",
     "name": "itsameme",
     "fname": "ITSAMEME",
-    "rpcport": 8332,
+    "rpcport": 16969,
     "pubtype": 0,
     "p2shtype": 5,
     "wiftype": 128,
@@ -6304,7 +6304,7 @@
     "name": "itsameme",
     "fname": "ITSAMEME",
     "sign_message_prefix": "ITSAMEME Signed Message:\n",
-    "rpcport": 8332,
+    "rpcport": 16969,
     "pubtype": 0,
     "p2shtype": 5,
     "wiftype": 128,
@@ -6313,7 +6313,7 @@
     "address_format": {
       "format": "segwit"
     },
-    "orderbook_ticker": "BTC",
+    "orderbook_ticker": "IAM",
     "txfee": 0,
     "estimate_fee_mode": "ECONOMICAL",
     "mm2": 1,
