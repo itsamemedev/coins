@@ -139,6 +139,10 @@
 		"explorer_address_url": "address/",
 		"explorer_block_url": "block/"
 	},
+	"https://explorer.its-a-meme.com/": {
+		"explorer_tx_url": "tx/",
+		"explorer_address_url": "address/"
+	},
 	"https://smartscout.cash/": {
 		"explorer_tx_url": "tx/",
 		"explorer_address_url": "address/",
